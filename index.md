@@ -11,6 +11,24 @@ I work as a Business Analyst in the tech industry, where I sit between technical
 - Documentation
 - Analytical Problem Solving
 
+## Career Goals
+
+My goal is to grow from a Business Analyst into a role where I build and analyze data directly, specifically as a Data Engineer. 
+
+Short-term
+- Build a strong foundation in programming, statistics, and databases through my coursework
+- Develop hands-on skills in Python, SQL, and data wrangling
+- Complete projects that I can display on this site
+
+Mid-term
+- Transition into a data-focused role, using my Business Analyst background as a bridge
+- Gain experience with cloud data tools and building reliable, scalable data pipelines
+
+Long-term
+- Work as a Data Engineer building data infrastructure, or as a Biostatistician contributing to research that improves health outcomes
+- Consider a graduate degree in Biostatistics or a related field to deepen my statistical expertise
+- Keep learning and stay current as tools and methods in data science evolve
+
 # Projects
 Coming Soon
 
